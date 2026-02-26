@@ -34,8 +34,9 @@ Ele exige autenticação contínua, verificação de identidade e monitoramento 
 ---
 
 ## 👤 Autor
-**[Seu Nome]**  
+**[Frederico Martins Aguiar]**  
 Participante do Bootcamp de Cybersegurança – DIO & Riachuelo  
+Analista de sistemas Full-Stack e Instrutor de formação profissional.
 
 ---
 
